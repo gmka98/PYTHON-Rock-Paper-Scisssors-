@@ -44,6 +44,8 @@ else:
 True
 >>> Action(0)
 <Action.Rock: 0>
+    function finale(){
+    }
 
 
     
